@@ -1,0 +1,5 @@
+One half of the mixed reality piano3d project.
+
+This windows executable was responsible for receiving keys pressed and playing sounds
+accordingly (using a piano key sound lookup/library). At the same time, it would generate the
+virtual reality presentation.
